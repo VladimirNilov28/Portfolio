@@ -1,15 +1,15 @@
-.logo_text{
+.logo_text {
     color: white;
     text-align: center;
 }
 
-.first{
+.first {
     color: white;
     text-align: center;
     margin-top: 100px;
 }
 
-.first a{
+.first a {
     color: white;
 }
 
@@ -19,7 +19,7 @@
     background-size: 100% 100%;
 }
 
-p{
+p {
     padding: 0 0 20px 0;
     line-height: 1.7em;
 }
@@ -45,22 +45,32 @@ footer {
     min-width: 900px;
 }
 
-.second{
+.second {
     color: white;
     text-align: center;
     margin-top: 100px;
 }
 
-.second a{
+.second a {
     color: white;
 }
 
-.third{
+.third {
     color: white;
     text-align: center;
     margin-top: 100px;
 }
 
-.third a{
+.third a {
+    color: white;
+}
+
+.fourth {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.fourth a {
     color: white;
 }
